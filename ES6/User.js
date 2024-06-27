@@ -1,4 +1,4 @@
-const bcrypt = require("bcryptjs");
+const bcrypt = require("bcryptjs")
 let user={
   name: "prem",
   email: "lprem0418@gmail.com",
